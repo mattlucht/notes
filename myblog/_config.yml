@@ -22,8 +22,8 @@ title: Matt's notes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts and notes that I'll try and post on a weekly-ish basis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notes" # the subpath of your site, e.g. /blog
+url: "https://mattlucht.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattlucht
 github_username:  mattlucht
 
